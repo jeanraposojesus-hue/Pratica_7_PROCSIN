@@ -2,11 +2,13 @@
 
 **Disciplina:** Processamento de Sinais I  
 **Instituição:** CEFET/RJ  
-**Autor:** Jean Raposo Soares de Jesus  
+**Autor:** Jean Raposo Soares de Jesus, Igor Pinheiro Torres e Fabrio Favre
 **Professor:** Rafael S. Chaves
 
 ![Status](https://img.shields.io/badge/Status-Concluído-success)
-![Linguagem](https://img.shields.io/badge/Linguagem-Python_/_MATLAB-blue) ## 📋 Descrição do Projeto
+![Linguagem](https://img.shields.io/badge/Linguagem-Python_/_MATLAB-blue)
+
+## 📋 Descrição do Projeto
 Este repositório contém as implementações referentes à Aula Prática 7 de Processamento de Sinais I. O objetivo principal deste projeto é a implementação do zero de filtros digitais FIR (Finite Impulse Response), sem a utilização de funções prontas de bibliotecas para o cálculo dos coeficientes. O projeto aborda desde o desenvolvimento matemático dos filtros com diferentes janelamentos até a aplicação em um sinal de áudio corrompido por ruídos e interferências.
 
 ## 🚀 Funcionalidades e Etapas Implementadas
