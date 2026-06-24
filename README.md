@@ -1,8 +1,11 @@
 # Projeto de Filtros FIR - Prática 7 🎛️
 
 **Disciplina:** Processamento de Sinais I  
+
 **Instituição:** CEFET/RJ  
-**Autor:** Jean Raposo Soares de Jesus, Igor Pinheiro Torres e Fabrio Favre
+
+**Autor:** Jean Raposo Soares de Jesus, Igor Pinheiro Torres e Fabrio Favre 
+
 **Professor:** Rafael S. Chaves
 
 ![Status](https://img.shields.io/badge/Status-Concluído-success)
